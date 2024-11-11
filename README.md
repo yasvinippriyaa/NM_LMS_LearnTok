@@ -12,9 +12,9 @@ To run this project on your local system, please use this as a manual.
 2. Set environment variable values in the backend/.env file.
 3. Make sure that MongoDB is up and running. Verify it from MongoDBCompass if required.
 4. Open a Command Line window and execute the following in sequence.
-4.1. cd backend
-4.2. npm install
-4.3. npm start
+  1. cd backend
+  2. npm install
+  3. npm start
 5. Open another Command Line window and execute the following in sequence
 5.1. cd frontend
 5.2. npm install
