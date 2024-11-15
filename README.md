@@ -1,8 +1,8 @@
 # NM_LMS_LearnTok
 
-This repository contains project work submitted for NaanMudhalvan-Smartbridge MERN stack course. Our topic is Online Learning System. We have named it LearnTok. We are yet to implement the admin side functionality. 
+This repository contains project work submitted for NaanMudhalvan-Smartbridge MERN stack course. Our topic is Online Learning System. We have named it LearnTok.
 
-Project Report Link: https://drive.google.com/file/d/1U4Kh6p_yAglvzh7AWU393q2FrLBz-3RX/view?usp=sharing
+Project Report (with Screenshots) Link: https://drive.google.com/file/d/1U4Kh6p_yAglvzh7AWU393q2FrLBz-3RX/view?usp=sharing
 
 Demo Video Link: https://drive.google.com/file/d/1zSuAjnMOFxqF1y95sivKP6ufFvXQH3tr/view?usp=sharing
 
