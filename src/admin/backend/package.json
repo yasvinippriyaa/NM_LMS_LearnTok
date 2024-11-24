@@ -1,8 +1,6 @@
 {
-	"name": "server",
-	"author": "Henok R. Bedassa",
-	"web": "henok.us",
-	"email": "jackbalageru@yahoo.com",
+	"name": "LearnTok Admin backend",
+	"author": "yasvini",
 	"description": "",
 	"main": "index.js",
 	"dependencies": {
